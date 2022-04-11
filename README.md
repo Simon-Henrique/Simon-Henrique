@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front End projects
 - 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on any front end projects that uses angular as main tech.
+- 👯 I’m looking to collaborate on any front end project that uses angular as main language.
 - 📫 How to reach me: mind.traveler@hotmail.com
 - ⚡ Fun fact: Im a self-taught and I love it
 - 🐱‍👤 There is my made projects until now: https://simon-dev-portfolio.netlify.app/
