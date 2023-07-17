@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any front end project that uses angular as main language.
 - 📫 How to reach me: mind.traveler@hotmail.com
 - ⚡ Fun fact: Im a self-taught and I love it
-- 🐱‍👤 There is my made projects until now: simon-dev-portfolio.netlify.app
+- 🐱‍👤 There is my made projects until now: [simon-dev-portfolio.netlify.app](https://simon-dev-portfolio.netlify.app/)
 
 <div align="center">
   <a href="https://github.com/simon-henrique">
