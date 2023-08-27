@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on front End projects
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on any front end project that uses angular as main language.
+- 🔭 I’m currently working on data engineering with SISS, SQL Server, Python and more.
+- 🌱 I’m currently improving my knowledge with Python, looking to be a true FullStack
+- 👯 I’m also interested in DevOps and big data stuff.
 - 📫 How to reach me: mind.traveler@hotmail.com
 - ⚡ Fun fact: Im a self-taught and I love it
-- 🐱‍👤 There is my made projects until now: [simon-dev-portfolio.netlify.app](https://simon-dev-portfolio.netlify.app/)
+- 🐱‍👤 There is my made projects until now:(Need some updates) [simon-dev-portfolio.netlify.app](https://simon-dev-portfolio.netlify.app/) 
 
 <div align="center">
   <a href="https://github.com/simon-henrique">
@@ -17,9 +17,10 @@
   <img align="center" alt="simon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="simon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="simon-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="simon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="simon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="simon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="simon-sqlserver" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/709096256034570282/962976455057367090/simon2.gif">
 </div>
