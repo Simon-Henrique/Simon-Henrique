@@ -22,7 +22,7 @@
   <img align="center" alt="simon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="simon-py" height="30" width="40"src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="simon-vsCode" height="30" width="40"src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="simon-sqls" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="simon-sqls" height="30" width="40"src="https://logosdownload.com/logo/Microsoft-SQL-Server-logos.svg">
   
 
 
