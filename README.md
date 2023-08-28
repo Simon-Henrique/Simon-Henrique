@@ -26,7 +26,6 @@
   <img align="center" alt="simon-mysql" height="55" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
 
-  <img src="" />
 
   
 
