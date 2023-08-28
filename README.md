@@ -23,6 +23,11 @@
   <img align="center" alt="simon-py" height="40" width="40"src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="simon-vsCode" height="30" width="40"src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
   <img align="center" alt="simon-sqls" height="55" width="55"src="https://logosdownload.com/logo/Microsoft-SQL-Server-logos.svg">
+  <img align="center" alt="simon-mysql" height="55" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
+
+  <img src="" />
+
   
 
 
