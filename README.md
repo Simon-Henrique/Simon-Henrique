@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data engineering with SISS, SQL Server, Python and more.
+- 🔭 I’m currently working on data engineering with SSIS, SQL Server, Python and more.
 - 🌱 I’m currently improving my knowledge with Python, looking to be a true FullStack
 - 👯 I’m also interested in DevOps and big data stuff.
 - 📫 How to reach me: mind.traveler@hotmail.com
