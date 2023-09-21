@@ -5,7 +5,7 @@
 - 👯 I’m also interested in DevOps and big data stuff.
 - 📫 How to reach me: mind.traveler@hotmail.com
 - ⚡ Fun fact: Im a self-taught and I love it
-- 🐱‍👤 There is my made projects until now:(Need some updates) [simon-dev-portfolio.netlify.app](https://simon-dev-portfolio.netlify.app/) 
+- 🐱‍👤 There is my made projects until now:(Need some updates) [simondev.com.br](https://www.simondev.com.br/) 
 
 <div align="center">
   <a href="https://github.com/simon-henrique">
